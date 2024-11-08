@@ -50,7 +50,7 @@ AES-256-GCM ensures that any tampering with the encrypted data can be detected d
 Dependency Management:
 
 The app uses well-maintained Rust crates for cryptography, ensuring reliability and security.
-Final Remarks
+
 By following modern cryptographic practices and utilizing strong algorithms, Encryptor offers a reliable solution for file encryption needs. Whether you're securing personal documents or sensitive information, this tool provides a balance between ease of use and robust security.
 
 Feel free to modify and extend the application to fit your requirements, and consider contributing back to the project to help others benefit from your enhancements.
